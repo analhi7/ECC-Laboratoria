@@ -61,8 +61,14 @@
     
     v. Dentro de la sección **Controls**, desribe lo siguiente:  
      
-     - a. Buttons: 
-     - b. Labels: 
+     - a. Buttons:Los botones inician acciones especificas dentro de una app. Son personalizables y pueden tener texto o un icono. Existen distintos tipos.  
+        1. System Buttons: Que aparecen generalmente en barras de navegación o barras de herramientas. Usan verbos,titulos cortos. Se capitaliza cada letra a menos que seauna conjunción, una preposición. Se considera usar bordes y color de fondo solo si es necsario.
+        2. Detail Disclosure Buttons: generalmente abren una vista, un modal que contien información adicional o funcional relacionada a un elemento en específico.Por lo general se usan en tablas.
+        3. Info Buttons: Revela detalles de configuracipin sobre la app. viene en dos estilos light y dark.
+        4. Add Contact Buttons: Te muestra una lista de contactos existentes para seleccionar alguno y mandarle algun mensaje, o añadirlo a una conversación.
+
+     - b. Labels: Describen un elemento de la interfaz o dan un mensaje corto. Se puede copiar el texto que contiene esas etiquetas, pero es mejor mantener los textos cortos.
+     
      - c. Color: 
 
 3. Enlista tus 10 apps favoritas  
