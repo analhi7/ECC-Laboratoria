@@ -37,10 +37,9 @@ enum Sign {
         case .paper:
             if computer == .rock {
                 return "Player Wins"
-            }
-            <#code#>
+            } else if 
         case .scissors:
-            <#code#>
+            If computer == .rock
         }
     
 }
