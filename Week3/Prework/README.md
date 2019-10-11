@@ -67,7 +67,10 @@
 
       **applicationWillEnterForeground:** Te permite saber que tu app se esta moviendo del segundo plano al primer plano. Pero aun no esta activa.  
 
-      **applicationWillTerminate:** Te permite saber que tu app se esta finalizando. Este metodo no es llamado si tu app esta suspendida.   
+      **applicationWillTerminate:** Te permite saber que tu app se esta finalizando. Este metodo no es llamado si tu app esta suspendida. 
+
+
+      ![LifeCycle](https://github.com/analhi7/ECC-Laboratoria/blob/master/Week3/Prework/images/LIFECYCLE%20APP.jpeg)  
 
 
      ii. Arquitectura Modelo Vista Controlador  
